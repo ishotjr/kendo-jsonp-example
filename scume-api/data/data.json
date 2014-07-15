@@ -1,0 +1,73 @@
+{
+
+    "success": true,
+    "perk_types": [
+        {
+            "id": 9,
+            "name": "Apparel",
+            "count": 11
+        },
+        {
+            "id": 10,
+            "name": "Automotive",
+            "count": 29
+        },
+        {
+            "id": 87,
+            "name": "Education & Career",
+            "count": 2
+        },
+        {
+            "id": 24,
+            "name": "Electronics",
+            "count": 6
+        },
+        {
+            "id": 2,
+            "name": "Entertainment",
+            "count": 14
+        },
+        {
+            "id": 14,
+            "name": "Food & Beverage",
+            "count": 39
+        },
+        {
+            "id": 3,
+            "name": "Health, Wellness, and Beauty",
+            "count": 89
+        },
+        {
+            "id": 18,
+            "name": "Home & Furnishing",
+            "count": 41
+        },
+        {
+            "id": 103,
+            "name": "Insurance",
+            "count": 2
+        },
+        {
+            "id": 119,
+            "name": "Pets",
+            "count": 2
+        },
+        {
+            "id": 109,
+            "name": "Services",
+            "count": 11
+        },
+        {
+            "id": 21,
+            "name": "Sports & Outdoors",
+            "count": 5
+        },
+        {
+            "id": 20,
+            "name": "Travel",
+            "count": 17
+        }
+    ],
+    "fav_count": 0
+
+}
